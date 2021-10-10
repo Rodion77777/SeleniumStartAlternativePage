@@ -1,5 +1,7 @@
 package utils;
 
+import pages.*;
+
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.openqa.selenium.WebDriver;
