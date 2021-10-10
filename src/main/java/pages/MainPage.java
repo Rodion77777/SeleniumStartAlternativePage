@@ -1,6 +1,6 @@
 package pages;
 
-import maintest.SetupTest;
+import utils.SetupTest;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
